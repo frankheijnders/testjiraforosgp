@@ -1,2 +1,4 @@
 # testjiraforosgp
-Test how well Jira works with GitHub
+Test how well Jira works with GitHub.
+
+Minor modification by Ruud for TPVO-13, to check the GitHub integration of JIRA.
